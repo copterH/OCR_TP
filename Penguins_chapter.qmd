@@ -19,7 +19,7 @@ Pourquoi manchot se traduit Penguins en anglais ?
 
 
 
-(O)>    (0)>    (0)>    (0)>
+(O)>    (O)>    (O)>    (O)>
 ( )     ( )     ( )     ( )
  W       W       W       W
 
